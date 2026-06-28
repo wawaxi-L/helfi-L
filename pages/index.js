@@ -65,6 +65,7 @@ export default function Home({ homeIntro }) {
       <header className="home-header">
         <h1>{t('home.title')}</h1>
         <div className="header-right">
+          <a href="/about/">{t('nav.about')}</a>
           <LanguageSwitcher />
         </div>
       </header>
