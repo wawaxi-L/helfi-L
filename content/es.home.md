@@ -1,0 +1,4 @@
+¡Bienvenido a Helfi! Helfi no es un juego, sino que pretende demostrar que es muy fácil tender puentes de comunicación entre personas de diferentes [clanes](https://es.wikipedia.org/wiki/Sippe) y [generaciones](https://es.wikipedia.org/wiki/Generación). 
+Como {title}, no impongas bajo ningún concepto una sesión a nadie. La otra persona debe decidir por sí misma que necesita tu ayuda.
+Dado que ayudar también crea adicción, cada {title} solo puede jugar a este juego una vez cada dos días. Pero ya sabéis cómo funciona.
+Así que, si eres una persona que busca ayuda y quieres seguir jugando, tendrás que esperar hasta mañana o buscar a otro {title}, a ser posible alguien más de la familia, un sacerdote o un terapeuta, dependiendo de lo bien o mal que te encuentres. ¡Todo irá bien!

@@ -1,0 +1,4 @@
+Willkommen zu Helfi! Helfi ist kein Spiel, sondern es soll zeigen, dass es spielend leicht ist, Kommunikationsbrücken zwischen Menschen aus unterschiedlichen [Sippen](https://www.duden.de/rechtschreibung/Sippe_Verwandtschaft) und [Generationen](https://de.wikipedia.org/wiki/Generation_(Gesellschaft)) zu überwinden. 
+Zwinge als {title} auf keinen Fall jemandem eine Sitzung auf. Dein Gegenüber muss von sich aus entscheiden, dass es Hilfe von dir braucht.
+Da auch das helfen süchtig macht, kann jeder {title} dieses Spiel nur ein mal alle zwei Tage spielen. Aber ihr wisst ja jetzt, wie es funktioniert.
+Bist du also Hilfesuchender und möchtest weiter spielen, musst du dich entweder bis morgen gedulden, oder einen anderen {title} suchen, am besten jemand anderes aus der Familie, einen Pfarrer oder einen Therapeuten, je nachdem wie gut oder schlecht es dir geht. Alles wird gut!

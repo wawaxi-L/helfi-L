@@ -1,0 +1,21 @@
+{
+  "name": "two-player-script-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js --dev",
+    "build": "next build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "next": "16.2.9",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-markdown": "10.1.0",
+    "socket.io": "4.8.3",
+    "socket.io-client": "4.8.3"
+  },
+  "overrides": {
+    "postcss": "8.5.10"
+  }
+}
